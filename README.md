@@ -1,3 +1,5 @@
+https://github.com/CNU-SW-Academy-iOS/OrderMate
+
 # :🏍: OrderMate
 **최소 주문 금액 & 배달비의 증가 & 주거 지역 밀집성의 특징을 이용한 교내 배달 음식 공동 주문 어플**
 
